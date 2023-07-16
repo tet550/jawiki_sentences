@@ -1,0 +1,9 @@
+pip install --upgrade pip
+
+pip install mwparserfromhell
+pip install lxml
+pip install mojimoji
+pip install regex
+pip install pandas pyarrow
+pip install datasets
+pip install huggingface_hub
