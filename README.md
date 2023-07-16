@@ -1,0 +1,2 @@
+# jawiki_sentences
+日本語版Wikipediaのダンプデータからタグなどを削除しhugging-face/datasetとしてアップロードする
